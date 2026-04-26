@@ -1,67 +1,59 @@
 # Raj Karthik Manam
 
-ML Engineer focused on LLM systems, RAG, MLOps, and production-grade applied AI.
+ML Engineer working across LLM systems, RAG, evaluation, MLOps, and backend delivery.
 
 [Portfolio](https://rajkarthik2003.github.io/rajkarthik2003/) | [LinkedIn](https://www.linkedin.com/in/raj-karthik-manam/) | [GitHub](https://github.com/rajkarthik2003) | Tampa, FL
 
-## About Me
+## Profile
 
-I am an M.S. candidate in Artificial Intelligence & Business Analytics at the University of South Florida (GPA 3.9, graduating December 2026). My work sits at the intersection of LLM engineering, clinical NLP, and MLOps, with an emphasis on systems that are measurable, explainable, and production-oriented.
+I am an M.S. candidate in Artificial Intelligence and Business Analytics at the University of South Florida with a 3.9 GPA, graduating in December 2026. My strongest work sits at the intersection of grounded LLM engineering, clinical NLP, production ML systems, and product-minded backend development.
 
-I am currently open to ML Engineer, AI Engineer, and Data Scientist opportunities starting in December 2026.
+I care most about systems that can be explained, evaluated, and trusted under real constraints.
 
-## What I Build
+## Selected Signals
 
-- Grounded LLM systems with retrieval, refusal logic, and evaluation loops
-- Production ML APIs with monitoring, testing, and deployment workflows
-- Clinical NLP pipelines that combine prompting, fine-tuning, and structured evaluation
-- Backend and analytics systems that connect modeling work to usable products
-
-## Selected Projects
-
-### Grounded Medical RAG System
-- Retrieval-first medical Q&A system designed to reduce unsupported answers in a high-stakes setting
-- Hallucination rate improved from `1.00` to `0.33`
-- Focus areas: grounding, refusal behavior, latency tradeoffs, and evaluation discipline
+### Grounded Medical RAG
+- Retrieval-first medical question answering system built for high-stakes factual reliability
+- Reduced hallucination rate from `1.00` to `0.33`
+- Focused on grounding, refusal behavior, and evaluation discipline
 - Repo: [grounded-llm-system](https://github.com/rajkarthik2003/grounded-llm-system)
 
-### Fraud Detection MLOps System
-- End-to-end fraud detection platform with FastAPI, XGBoost, Docker, Redis, PostgreSQL, Prometheus, and Kubernetes
+### Fraud Detection MLOps
+- End-to-end fraud detection platform with API delivery, model serving, explainability, and monitoring
 - Resume metrics: `ROC-AUC 0.97`, `Precision 94%`, `Recall 82%` on a `0.17%` fraud-rate problem
-- Includes explainability, drift checks, async inference, and CI-oriented testing
 - Repo: [fraud-mlops-system](https://github.com/rajkarthik2003/fraud-mlops-system)
 
-### Clinical NLP Multi-Agent Workflow
-- Clinical span extraction work built around DeBERTa-style modeling, agent coordination, and evaluation thinking
-- Resume benchmark: `F1 0.65 -> 0.85` from zero-shot baseline to fine-tuned approach
-- Emphasis on reproducibility, ablations, and domain-specific extraction
+### Clinical NLP Workflow
+- Clinical span extraction work combining prompting, fine-tuning, and structured evaluation
+- Improved `F1` from `0.65` to `0.85` from zero-shot baseline to fine-tuned approach
+- Focused on reproducibility, ablations, and domain-specific extraction quality
 
-### EduVision Academic Platform
-- Multi-role academic management platform built with ASP.NET Core MVC and SQL-backed domain modeling
-- Includes dashboards, analytics, authentication, deployment, and live demo hosting
+### EduVision MVC
+- Multi-role academic management platform built with ASP.NET Core MVC, SQL-backed data modeling, analytics, and Azure deployment workflows
 - Repo: [EduvisionMVC](https://github.com/rajkarthik2003/EduvisionMVC)
 
 ## Experience
 
-### Graduate Teaching Assistant, University of South Florida
+### University of South Florida
+Graduate Teaching Assistant, Python for Business
 - Built an automated grading workflow with `pytest` and GitHub Actions for `1,200+` submissions per semester
-- Supported `150+` students through labs, debugging help, and data analytics instruction
+- Supported `150+` students through labs, debugging help, and analytics instruction
 
-### Product Engineer, EffiGO
+### EffiGO
+Product Engineer
 - Built Java and Spring Boot APIs for procurement workflows
-- Improved SQL query performance in transaction-heavy supplier onboarding flows
+- Improved SQL query performance in transaction-heavy onboarding flows
 
-## Tech Stack
+## Tools
 
-`Python` `FastAPI` `PyTorch` `XGBoost` `TensorFlow` `HuggingFace` `LangChain` `Docker` `Kubernetes` `MLflow` `PostgreSQL` `Redis` `GitHub Actions` `SQL` `Java` `C#`
+`Python` `FastAPI` `PyTorch` `TensorFlow` `XGBoost` `Hugging Face` `LangChain` `Docker` `Kubernetes` `MLflow` `PostgreSQL` `Redis` `GitHub Actions` `SQL` `Java` `C#` `ASP.NET Core MVC`
 
-## Current Focus
+## Working Style
 
-- Retrieval-augmented generation for trustworthy answers
-- Evaluation-driven LLM development
-- Production ML system design
-- Clinical and healthcare NLP
+- I prefer measurable outcomes over broad claims.
+- I like shipping ML work as systems, not just notebooks.
+- I care about failure modes, traceability, and product usefulness.
 
-## Let's Connect
+## Outside Work
 
-If you are hiring for ML, AI, or data roles and value strong execution on both modeling and delivery, I would be glad to connect.
+I enjoy chess, anime, and studying how complex systems make decisions.
