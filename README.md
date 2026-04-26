@@ -10,7 +10,7 @@ I am an M.S. candidate in Artificial Intelligence and Business Analytics at the 
 
 I care most about systems that can be explained, evaluated, and trusted under real constraints.
 
-## Selected Signals
+## Selected Work
 
 ### Grounded Medical RAG
 - Retrieval-first medical question answering system built for high-stakes factual reliability
@@ -44,7 +44,7 @@ Product Engineer
 - Built Java and Spring Boot APIs for procurement workflows
 - Improved SQL query performance in transaction-heavy onboarding flows
 
-## Tools
+## Skills
 
 `Python` `FastAPI` `PyTorch` `TensorFlow` `XGBoost` `Hugging Face` `LangChain` `Docker` `Kubernetes` `MLflow` `PostgreSQL` `Redis` `GitHub Actions` `SQL` `Java` `C#` `ASP.NET Core MVC`
 
@@ -53,6 +53,13 @@ Product Engineer
 - I prefer measurable outcomes over broad claims.
 - I like shipping ML work as systems, not just notebooks.
 - I care about failure modes, traceability, and product usefulness.
+
+## What I Can Help Build
+
+- Retrieval-augmented systems that need grounding, evaluation, and safer response behavior
+- Production ML services that need APIs, monitoring, testing, and deployment structure
+- NLP and classification workflows that need better quality, reproducibility, and clearer trade-offs
+- Backend and analytics products that connect modeling work to real user workflows
 
 ## Outside Work
 
