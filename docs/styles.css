@@ -422,6 +422,30 @@ h2 {
   gap: 10px;
 }
 
+.skill-groups {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.skill-group {
+  padding: 20px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.025);
+}
+
+.skill-group h3 {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.skill-group p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
 .stack-cloud span {
   padding: 10px 14px;
   border-radius: 999px;
@@ -445,6 +469,7 @@ h2 {
   .hero,
   .project-grid,
   .capability-grid,
+  .skill-groups,
   .split-copy {
     grid-template-columns: 1fr;
   }

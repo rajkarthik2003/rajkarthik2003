@@ -1,14 +1,14 @@
 # Raj Karthik Manam
 
-ML Engineer working across LLM systems, RAG, evaluation, MLOps, and backend delivery.
+ML Engineer
 
 [Portfolio](https://rajkarthik2003.github.io/rajkarthik2003/) | [LinkedIn](https://www.linkedin.com/in/raj-karthik-manam/) | [GitHub](https://github.com/rajkarthik2003) | Tampa, FL
 
-## Profile
+## About
 
-I am an M.S. candidate in Artificial Intelligence and Business Analytics at the University of South Florida with a 3.9 GPA, graduating in December 2026. My strongest work sits at the intersection of grounded LLM engineering, clinical NLP, production ML systems, and product-minded backend development.
+I am an M.S. candidate in Artificial Intelligence and Business Analytics at the University of South Florida with a 3.9 GPA, graduating in December 2026.
 
-I care most about systems that can be explained, evaluated, and trusted under real constraints.
+My work spans grounded LLM systems, clinical NLP, production ML services, and backend product engineering. I am most interested in building systems that can be measured, explained, and trusted under real constraints.
 
 ## Selected Work
 
@@ -47,19 +47,6 @@ Product Engineer
 ## Skills
 
 `Python` `FastAPI` `PyTorch` `TensorFlow` `XGBoost` `Hugging Face` `LangChain` `Docker` `Kubernetes` `MLflow` `PostgreSQL` `Redis` `GitHub Actions` `SQL` `Java` `C#` `ASP.NET Core MVC`
-
-## Working Style
-
-- I prefer measurable outcomes over broad claims.
-- I like shipping ML work as systems, not just notebooks.
-- I care about failure modes, traceability, and product usefulness.
-
-## What I Can Help Build
-
-- Retrieval-augmented systems that need grounding, evaluation, and safer response behavior
-- Production ML services that need APIs, monitoring, testing, and deployment structure
-- NLP and classification workflows that need better quality, reproducibility, and clearer trade-offs
-- Backend and analytics products that connect modeling work to real user workflows
 
 ## Outside Work
 
