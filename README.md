@@ -4,11 +4,26 @@ AI Engineer | ML Engineer | Software Engineer
 
 [Portfolio](https://rajkarthik2003.github.io/rajkarthik2003/) | [LinkedIn](https://www.linkedin.com/in/raj-karthik-manam/) | [GitHub](https://github.com/rajkarthik2003) | Tampa, FL
 
-## About
+## Summary
 
-I am a master's student in Artificial Intelligence and Business Analytics at the University of South Florida, graduating in December 2026 with a `3.9/4.0` GPA.
+AI and machine learning engineer building grounded, production-ready systems that connect models, data, and APIs. Currently pursuing an M.S. in Artificial Intelligence and Business Analytics at the University of South Florida, graduating December 2026 with a `3.9/4.0` GPA.
 
-My work spans LLM systems, machine learning platforms, clinical NLP, backend APIs, and production-focused software engineering. I am especially interested in building systems that are measurable, reliable, and useful beyond a demo.
+Available for full-time AI Engineer, ML Engineer, and Software Engineer roles starting December 2026.
+
+[Download Resume](https://raw.githubusercontent.com/rajkarthik2003/main/Profile.pdf)
+
+## Quick highlights
+
+- Reduced hallucination risk in a medical RAG workflow by 67% while preserving grounded output behavior
+- Delivered a fraud detection platform with `ROC-AUC 0.97`, `Precision 94%`, and `Recall 82%`
+- Built automated grading tooling for `1,200+` student submissions and supported `150+` learners in Python for Business
+
+## What I deliver
+
+- Grounded retrieval and RAG systems with evaluation workflows and reliable output behavior
+- Machine learning platforms with serving, monitoring, explainability, and deployment-first design
+- Backend APIs and data-driven engineering with testing, CI/CD, and operational readiness
+- Product-aware delivery that supports teams shipping real, measurable outcomes
 
 ## Focus Areas
 
