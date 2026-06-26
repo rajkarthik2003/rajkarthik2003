@@ -10,8 +10,6 @@ AI and machine learning engineer building grounded, production-ready systems tha
 
 Available for full-time AI Engineer, ML Engineer, and Software Engineer roles starting December 2026.
 
-[Download Resume](https://raw.githubusercontent.com/rajkarthik2003/main/Profile.pdf)
-
 ## Quick highlights
 
 - Reduced hallucination risk in a medical RAG workflow by 67% while preserving grounded output behavior
