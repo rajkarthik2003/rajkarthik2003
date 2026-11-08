@@ -41,11 +41,6 @@ Available for full-time AI Engineer, ML Engineer, and Software Engineer roles st
 - Resume metrics: `ROC-AUC 0.97`, `Precision 94%`, `Recall 82%`
 - Repo: [fraud-mlops-system](https://github.com/rajkarthik2003/fraud-mlops-system)
 
-### Clinical NLP Span Extraction
-- Built a clinical NLP workflow around token classification, CRF modeling, evaluation, and error analysis
-- Current public repo shows baseline, tuned linear, CRF, and biomedical transformer experiments
-- Repo: [clinical-nlp-span-extraction](https://github.com/rajkarthik2003/clinical-nlp-span-extraction)
-
 ### EduVision MVC
 - Built a multi-role academic platform with dashboards, analytics, authentication, and SQL-backed domain modeling
 - Stronger software engineering signal across ASP.NET Core MVC, Entity Framework Core, deployment workflow, and diagnostics
